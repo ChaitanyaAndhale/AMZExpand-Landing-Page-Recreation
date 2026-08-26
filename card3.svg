@@ -1,0 +1,27 @@
+<svg width="404" height="226" viewBox="0 0 404 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="404" height="226" rx="8" fill="#FFF3E0" />
+  <!-- Audit Report Breakdown Graphic -->
+  <g transform="translate(62, 18)">
+    <rect x="20" y="15" width="240" height="160" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <!-- Header bar -->
+    <rect x="20" y="15" width="240" height="34" rx="10" fill="#1C182B" />
+    <text x="35" y="37" font-family="'DM Sans', sans-serif" font-weight="700" font-size="11" fill="#FFFFFF">48-HOUR AUDIT REPORT</text>
+    <rect x="200" y="27" width="48" height="12" rx="6" fill="#E8800A" />
+    <text x="224" y="36" font-family="'DM Sans', sans-serif" font-weight="700" font-size="8" fill="#FFFFFF" text-anchor="middle">FREE</text>
+
+    <!-- Report Lines -->
+    <rect x="35" y="65" width="130" height="8" rx="4" fill="#E2E8F0" />
+    <text x="235" y="73" font-family="'DM Sans', sans-serif" font-weight="700" font-size="11" fill="#E8800A" text-anchor="end">-$12,400</text>
+    
+    <rect x="35" y="90" width="110" height="8" rx="4" fill="#E2E8F0" />
+    <text x="235" y="98" font-family="'DM Sans', sans-serif" font-weight="700" font-size="11" fill="#E8800A" text-anchor="end">-$8,200</text>
+
+    <rect x="35" y="115" width="140" height="8" rx="4" fill="#E2E8F0" />
+    <text x="235" y="123" font-family="'DM Sans', sans-serif" font-weight="700" font-size="11" fill="#E8800A" text-anchor="end">-$15,100</text>
+
+    <!-- Total Wasted Line -->
+    <line x1="35" y1="140" x2="245" y2="140" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="3 3" />
+    <text x="35" y="156" font-family="'DM Sans', sans-serif" font-weight="700" font-size="10" fill="#1C182B">TOTAL RECOVERABLE</text>
+    <text x="235" y="156" font-family="'DM Sans', sans-serif" font-weight="700" font-size="12" fill="#10B981" text-anchor="end">+$35,700/mo</text>
+  </g>
+</svg>
